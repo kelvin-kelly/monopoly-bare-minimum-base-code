@@ -3,6 +3,10 @@
 import random
 import time
 
+
+print("*** Welcome to our bare-minimum MONOPOLY !! ***")
+
+print(" ")
 class Property:
     def __init__(self, name, price):
         self.name = name
